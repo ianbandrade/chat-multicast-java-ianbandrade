@@ -45,7 +45,7 @@ The console going to show the result
 # Go to folder
 $ cd chat-multicast-java-ianbandrade/out/production/chat-multicast-java-ianbandrade
 
-# Start the server
+# Start the client
 $ java Client
 ```
 
