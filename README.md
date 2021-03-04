@@ -20,7 +20,7 @@ There is a simple Multicast Chat program
 
 ## Techs
 
-- Java 1.8
+- Java ```1.8```
 
 ## Run
 
